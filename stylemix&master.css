@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+.mixmaster2 {
+    color: rgb(245, 244, 244)
+        
+    }
+    
+    .hero-image {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.5)), url("Studios-banner-image.png");
+        height: 100vh;
+        width: 100vw;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      }
+    
+    
+    .button1:hover{
+    color:#000000;
+    background-color:#ffffff;
+    }
+    @media all and (max-width:30em){
+    .button1{
+    display:block;
+    margin:0.4em auto;
+    }
+    }
+
+
+.download-btn {
+  background-color: rgb(116, 116, 116);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+
+.btn:hover {
+  background-color: rgb(145, 71, 71);
+}

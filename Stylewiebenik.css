@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+
+
+.wiebenik2 {
+color: rgb(245, 244, 244)
+    
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.5)), url("category_banner_broadcast_1.jpg--80.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+
+
+

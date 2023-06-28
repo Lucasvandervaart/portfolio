@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+.socialmedia2 {
+    color: rgb(255, 255, 255)
+        
+    }
+    
+    .hero-image {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.5)), url("Banner1.jpg");
+        height: 100vh;
+        width: 100vw;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      }
+
+.socialmediaimages{
+width: 250px;
+height: 400px;
+}

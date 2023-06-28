@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.contact2 {
+    color: rgb(255, 255, 255)
+        
+    }
+    
+    .hero-image {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("STUDIO_1_BANNER_1400X600.jpg");
+        height: 100vh;
+        width: 100vw;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      }
+      h1 {
+        text-align: center;
+        margin: 35px 0 20px 0 !important;
+      }
+
+     
